@@ -1,115 +1,113 @@
-[![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/pulls/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License Github](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
+[![Les contributeurs](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/graphs/contributors/)
+[![Issues](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)
+[![PRs](https://img.shields.io/github/issues-pr/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/pulls/)
+[![Vous pouvez contribuer !](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/network/)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/stargazers/)
+[![Watchers](https://img.shields.io/github/watchers/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/watchers/)
+[![Forks](https://img.shields.io/github/forks/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/network/)
+[![Stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/stargazers/)
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/microsoft/Web-Dev-For-Beginners)
 
-# Web Development for Beginners - A Curriculum
+# Développement Web pour débutants - Programme
 
-Learn the fundamentals of JavaScript, CSS, and HTML with our comprehensive 12-week course, brought to you by Microsoft Cloud Advocates. Each of the 24 lessons includes pre- and post-lesson quizzes, detailed written instructions, solutions, assignments, and much more. With a project-based approach to learning, our curriculum is designed to help you develop practical skills through hands-on building. Enhance your skills and optimize your knowledge retention with our effective project-based pedagogy.
+Azure Cloud Advocates de Microsoft ont le plaisir de vous proposer un programme de 12 semaines et 24 leçons sur les bases de JavaScript, CSS et HTML. Chaque leçon comprend des quiz avant et après la leçon, des instructions écrites pour terminer la leçon, une solution, un devoir et plus encore. Notre pédagogie basée sur des projets vous permet d’apprendre tout en construisant, un moyen éprouvé pour que de nouvelles compétences puissent 'coller'.
 
-### _Are you a student?_
+**Un grand merci à nos auteurs Jen Looper, Chris Noring, Christopher Harrison, Jasmine Greenaway, Yohan Lasorsa, Floor Drees et l’artiste de sketchnote Tomomi Imura!**
+
+# Êtes vous étudiant ?
+
+Commencez avec les ressources suivantes :
+
+[La page Hub étudiants](https://docs.microsoft.com/fr-fr/learn/student-hub/?WT.mc_id=academic-77807-sagibbon), vous trouverez des ressources pour les débutants, packs étudiants et des méthodes pour avoir des vouchers gratuits pour des certifications. C'est une page que vous pouvez enregistrer and vérifier de temps en temps car nous modifions le contenu mensuellement.
+
+[Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/?WT.mc_id=academic-77807-sagibbon), rejoignez une communauté globale d'étudiants ambassadeurs, cela peut vous faire découvrir Microsoft.
+
+# Pour commencer
+
+> **Instituteurs**, nous avons [inclus quelques suggestions](for-teachers.fr.md) sur la façon d’utiliser ce programme. Nous aimerions avoir vos commentaires [dans notre forum de discussion](https://github.com/microsoft/Web-Dev-For-Beginners/discussions/categories/teacher-corner)!
+
+> **Elèves**, pour utiliser ce programme par vous-même, effectuer un Fork l’ensemble du dépôt et compléter les exercices par vous-même, en commençant par un quiz préalable, puis en lisant le cours et en complétant le reste des activités. Essayez de créer les projets en comprenant les leçons plutôt que de copier le code de la solution; toutefois, ce code est disponible dans les dossiers /solutions de chaque leçon orientée projet. Une autre idée serait de former un groupe d’étude avec des amis et de parcourir le contenu ensemble. Pour une étude plus approfondie, nous recommandons [Microsoft Learn](https://docs.microsoft.com/users/jenlooper-2911/collections/jg2gax8pzd6o81/?WT.mc_id=academic-77807-sagibbon) et en regardant les vidéos mentionnées ci-dessous.
+
+[![Vidéo promotionnelle](../images/web.gif)](https://youtube.com/watch?v=R1wrdtmBSII "Vidéo promotionnelle")
+
+Gif par [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
+
+> 🎥 Cliquez sur l’image ci-dessus pour une vidéo sur le projet et les personnes qui l’ont créé!
+
+## Pédagogie
+
+Nous avons choisi deux principes pédagogiques lors de l’élaboration de ce programme : s’assurer qu’il est basé sur des projets et qu’il comprend des quiz fréquents. À la fin de cette série, les élèves auront construit un jeu de dactylographie, un terrarium virtuel, une extension de navigateur 'verte', un jeu de type 'space invaders' et une application bancaire de type professionnel, et auront appris les bases de JavaScript, HTML et CSS ainsi que la chaîne d’outils moderne du développeur Web d’aujourd’hui.
+
+> 🎓 Vous pouvez prendre les premières leçons de ce programme en tant que [Parcours d’apprentissage](https://docs.microsoft.com/learn/paths/web-development-101/?WT.mc_id=academic-77807-sagibbon) sur Microsoft Learn!
+
+En veillant à ce que le contenu s’aligne sur les projets, le processus est rendu plus attrayant pour les étudiants et la rétention des concepts sera augmentée. Nous avons également écrit plusieurs leçons de démarrage sur les bases de JavaScript pour introduire des concepts, associées à une vidéo de la "[Série pour débutants à : JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/?WT.mc_id=academic-77807-sagibbon)" une collection de tutoriels vidéo, dont certains auteurs ont contribué à ce programme.
+
+En outre, un quiz à faible enjeu avant un cours définit l’intention de l’élève d’apprendre un sujet, tandis qu’un deuxième quiz après le cours assure une rétention supplémentaire. Ce programme a été conçu pour être flexible et amusant et peut être pris en tout ou en partie. Les projets commencent petit et deviennent de plus en plus complexes à la fin du cycle de 12 semaines.
+
+Bien que nous ayons délibérément évité d’introduire des frameworks JavaScript afin de nous concentrer sur les compétences de base nécessaires en tant que développeur Web avant d’adopter un framework, une bonne prochaine étape pour compléter ce programme serait d’en apprendre davantage sur Node.js via une autre collection de vidéos: "[Série pour débutants en Node.js](https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs/?WT.mc_id=academic-77807-sagibbon)".
+
+> Trouvez nos directives de [Code de conduite](../CODE_OF_CONDUCT.md), pour [Contribuer](../CONTRIBUTING.md) et de [Traduction](../TRANSLATIONS.md). Vos commentaires constructifs sont les bienvenus!
+
+## Chaque leçon comprend :
+
+- note de croquis facultative (sketchnote)
+- vidéo supplémentaire en option
+- quiz préalable avant la leçon
+- leçon écrite
+- pour les leçons basées sur un projet, des guides étape par étape sur la façon de construire le projet
+- vérifications des connaissances
+- un défi
+- lecture supplémentaire
+- affectation
+- quiz de validation des connaissances
+
+> **Une note sur les quiz**: Tous les quiz sont contenus [dans cette application](https://ashy-river-0debb7803.1.azurestaticapps.net/), pour un total de 48 quiz de trois questions chacun. Ils sont liés à partir des leçons, mais l’application de quiz peut être exécutée localement; suivez les instructions dans le dossier `quiz-app`. Ils sont progressivement localisés.
+
+## Leçons
 
 
-Get started with the following resources:
+|       |                      Nom du projet                       |                         Compétences à acquérir                         | Objectifs                                                                                                                         |                                                  Leçon liée                                                 |         Auteur          |
+| :---: | :------------------------------------------------------: | :--------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------: | :---------------------: |
+|  01   |                      Pour commencer                      |                    Introduction à la programmation et aux outils métiers                    | Savoir les bases de quelques langages de programmation et leur utilité dans la création de solutions informatiques                | [Introduction à la programmation](/1-getting-started-lessons/1-intro-to-programming-languages/translations/README.fr.md) |         Jasmine         |
+|  02   |                      Pour commencer                      |              Les bases de Github et le travail en groupe               | Apprendre comment utiliser GitHub et contribuer à des projets                                                                     |         [Introduction aux bases de GitHub](/1-getting-started-lessons/2-github-basics/translations/README.fr.md)         |          Floor          |
+|  03   |                      Pour commencer                      |                             Accessibilité                              | Apprendre les bases de l'accessibilité Web                                                                                     |            [Fondamentaux de l'accessibilité](/1-getting-started-lessons/3-accessibility/translations/README.fr.md)            |       Christopher       |
+|  04   |                        Les bases de JS                         |                         Types de données JavaScript                          | Les bases des types de données JavaScript                                                                                                |                            [Types de données](/2-js-basics/1-data-types/translations/README.fr.md)                             |         Jasmine         |
+|  05   |                        Les bases de JS                         |                         Fonctions et méthodes                          | En savoir plus sur les fonctions et les méthodes de gestion du flux logique d’une application flow                                                           |                   [Fonctions et méthodes](/2-js-basics/2-functions-methods/translations/README.fr.md)                    | Jasmine et Christopher |
+|  06   |                        Les bases de JS                         |                        Prendre des décisions avec JS                        | Découvrez comment créer des conditions dans votre code à l’aide de méthodes de prise de décision methods                                                         |                      [Prendre des décisions](/2-js-basics/3-making-decisions/translations/README.fr.md)                       |         Jasmine         |
+|  07   |                        Les bases de JS                         |                            Tableaux et boucles                            | Utiliser des données à l’aide de tableaux et de boucles en JavaScript                                                                               |                        [Tableaux et boucles](/2-js-basics/4-arrays-loops/translations/README.fr.md)                         |         Jasmine         |
+|  08   |       [Terrarium](/3-terrarium/solution/translations/README.fr.md)       |                            HTML en pratique                            | Construisez le code HTML pour créer un terrarium en ligne, en vous concentrant sur la construction d’une mise en page                                                       |                      [Introduction au HTML](/3-terrarium/1-intro-to-html/translations/README.fr.md)                      |           Jen           |
+|  09   |       [Terrarium](/3-terrarium/solution/translations/README.fr.md)       |                            CSS en pratique                             | Construisez le CSS pour styliser le terrarium en ligne, en vous concentrant sur les bases du CSS, y compris rendre la page réactive                   |                       [Introduction au CSS](/3-terrarium/2-intro-to-css/translations/README.fr.md)                       |           Jen           |
+|  10   |            [Terrarium](/3-terrarium/solution/translations/README.fr.md)            |                 Fermetures JavaScript, manipulation DOM                  | Construisez le JavaScript pour que le terrarium fonctionne comme une interface glisser/déposer, en vous concentrant sur les fermetures et la manipulation du DOM           |       [Fermetures JavaScript, manipulation DOM](/3-terrarium/3-intro-to-DOM-and-closures/translations/README.fr.md)        |           Jen           |
+|  11   |          [Typing Game](/4-typing-game/solution/translations/README.fr.md)          |                          Créer un jeu de frappe                           | Découvrez comment utiliser les événements de clavier pour piloter la logique de votre application JavaScript                                                        |                     [Programmation événementielle](/4-typing-game/typing-game/translations/README.fr.md)                     |       Christopher       |
+|  12   | [Green Browser Extension](/5-browser-extension/solution/translations/README.fr.md) |                         Utilisation des navigateurs                          | Découvrez comment fonctionnent les navigateurs, leur historique et comment échafauder les premiers éléments d’une extension de navigateur                             |                    [À propos des navigateurs](/5-browser-extension/1-about-browsers/translations/README.fr.md)                     |           Jen           |
+|  13   | [Green Browser Extension](/5-browser-extension/solution/translations/README.fr.md) | Création d’un formulaire, appel d’une API et stockage de variables dans le stockage local | Générez les éléments JavaScript de votre extension de navigateur pour appeler une API à l’aide de variables stockées dans le stockage local                    |     [API, formulaires et stockage local](/5-browser-extension/2-forms-browsers-local-storage/translations/README.fr.md)      |           Jen           |
+|  14   | [Green Browser Extension](/5-browser-extension/solution/translations/README.fr.md) |          Processus en arrière-plan dans le navigateur, performances Web          | Utilisez les processus d’arrière-plan du navigateur pour gérer l’icône de l’extension; en savoir plus sur les performances Web et quelques optimisations à faire |  [Les tâches et les performances en arrière-plan](/5-browser-extension/3-background-tasks-and-performance/translations/README.fr.md)   |           Jen           |
+|  15   |        [Jeu de l'espace](/6-space-game/solution/translations/README.fr.md)         |              Développement avancé d'un jeu en Javascript               | En savoir plus sur l’héritage en utilisant à la fois les classes et la composition et le modèle Pub/Sub, en préparation de la création d’un jeu           |  [Introduction au développement avancé d'un jeu en Javascript](/6-space-game/1-introduction/translations/README.fr.md)   |          Chris          |
+|  16   |        [Jeu de l'espace](/6-space-game/solution/translations/README.fr.md)         |                               Les Canvas                               | En savoir plus sur l’API Canvas, utilisée pour dessiner des éléments sur un écran                                                                 |                    [Dessiner des Canvas](/6-space-game/2-drawing-to-canvas/translations/README.fr.md)                    |          Chris          |
+|  17   |        [Jeu de l'espace](/6-space-game/solution/translations/README.fr.md)         |                         Déplacement d’éléments autour de l’écran                          | Découvrez comment les éléments peuvent gagner du mouvement à l’aide des coordonnées cartésiennes et de l’API Canvas                                                                            |                [Déplacer des éléments autour](/6-space-game/3-moving-elements-around/translations/README.fr.md)                |          Chris          |
+|  18   |        [Jeu de l'espace](/6-space-game/solution/translations/README.fr.md)         |                          Détection de collision                           | Faire entrer en collision les éléments et les faire réagir les uns aux autres à l’aide d’appuis sur les touches et fournir une fonction de refroidissement pour assurer les performances du jeu  |                   [Détection de collision](/6-space-game/4-collision-detection/translations/README.fr.md)                   |          Chris          |
+|  19   |        [Jeu de l'espace](/6-space-game/solution/translations/README.fr.md)         |                             Garder le score                              | Effectuez des calculs mathématiques en fonction de l’état du jeu et des performances                                                              |                         [Garder le score](/6-space-game/5-keeping-score/translations/README.fr.md)                         |          Chris          |
+|  20   |        [Jeu de l'espace](/6-space-game/solution/translations/README.fr.md)         |                       Fin et redémarrage du jeu                        | Découvrez comment terminer et redémarrer le jeu, y compris le nettoyage des ressources et la réinitialisation des valeurs variables                                                                    |                         [Les conditions de fin](/6-space-game/6-end-condition/translations/README.fr.md)                         |          Chris          |
+|  21   |     [Application bancaire](/7-bank-project/solution/translations/README.fr.md)     |           Modèles et Routes HTML dans une application Web            | Savoir l'utilité des Templates et Routes dans la gestion d'un site web multi-pages.                                               |                  [HTML Templates et Routes](/7-bank-project/1-template-route/translations/README.fr.md)                  |          Yohan          |
+|  22   |     [Application bancaire](/7-bank-project/solution/translations/README.fr.md)     |                    Créez un formulaire de connexion et d’inscription                    | En savoir plus sur la création de formulaires et la gestion des routines de validation                                                |                             [Formulaires](/7-bank-project/2-forms/translations/README.fr.md)                             |          Yohan          |
+|  23   |     [Application bancaire](/7-bank-project/solution/translations/README.fr.md)     |                    Fetch et utilisation des données                    | Comment les données entrent et sortent de votre application, comment les récupérer, les stocker et les supprimer                                                                               |                               [Données](/7-bank-project/3-data/translations/README.fr.md)                                |          Yohan          |
+|  24   |     [Application bancaire](/7-bank-project/solution/translations/README.fr.md)     |                   Concepts de la gestion des states                    | Découvrez comment votre application conserve son état et comment la gérer par programme                                                                                 |                    [Gestion de l'état](/7-bank-project/4-state-management/translations/README.fr.md)                    |          Yohan          |
 
-- [Student Hub page](https://docs.microsoft.com/learn/student-hub?WT.mc_id=academic-77807-sagibbon) On this page, you will find beginner resources, Student packs, and even ways to get a free cert voucher. This is one page you want to bookmark and check from time to time as we switch out content at least monthly.
-- [Microsoft Student Learn ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-77807-sagibbon) Join a global community of student ambassadors, this could be your way into Microsoft.
+## Accéder au cours hors connexion
 
-Visit [**Student Hub page**](https://docs.microsoft.com/learn/student-hub/?WT.mc_id=academic-77807-sagibbon) where you will find beginner resources, Student packs and even ways to get a free certificate voucher. This is the page you want to bookmark and check from time to time as we switch out content monthly.
-
-# Getting Started
-
-> **Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum. We'd love your feedback [in our discussion forum](https://github.com/microsoft/Web-Dev-For-Beginners/discussions/categories/teacher-corner)!
-
-> **[Students](https://aka.ms/student-page/?WT.mc_id=academic-77807-sagibbon)**, to fully benefit from this curriculum, we encourage you to fork the entire repository and engage in self-study. Start with a pre-lecture quiz and follow through with reading the lecture material and completing the various activities. Emphasize on comprehending the lessons rather than just copying the solution code. However, if needed, the solution code can be found in the */solutions folders* within each project-based lesson. Another great way to enhance your learning experience is to form a study group with your peers and work through the curriculum together. To further your education, we highly recommend exploring [Microsoft Learn](https://learn.microsoft.com/users/wirelesslife/collections/p1ddcy5jwy0jkm?WT.mc_id=academic-77807-sagibbon) for additional study materials..
-
-## Pedagogy
-
-Our curriculum is designed with two key pedagogical principles in mind: project-based learning and frequent quizzes. The program teaches the fundamentals of JavaScript, HTML, and CSS, as well as the latest tools and techniques used by today's web developers. Students will have the opportunity to develop hands-on experience by building a typing game, virtual terrarium, eco-friendly browser extension, space-invader-style game, and a banking app for businesses. By the end of the series, students will have gained a solid understanding of web development.
-
-> 🎓 You can take the first few lessons in this curriculum as a [Learn Path](https://docs.microsoft.com/learn/paths/web-development-101/?WT.mc_id=academic-77807-sagibbon) on Microsoft Learn!
-
-By ensuring that the content aligns with projects, the process is made more engaging for students and retention of concepts will be augmented. We also wrote several starter lessons in JavaScript basics to introduce concepts, paired with a video from the "[Beginners Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/?WT.mc_id=academic-77807-sagibbon)" collection of video tutorials, some of whose authors contributed to this curriculum.
-
-In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12-week cycle.
-
-While we have purposefully avoided introducing JavaScript frameworks to concentrate on the basic skills needed as a web developer before adopting a framework, a good next step to completing this curriculum would be learning about Node.js via another collection of videos: "[Beginner Series to: Node.js](https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs/?WT.mc_id=academic-77807-sagibbon)".
-
-> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), and [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
-
-## Each lesson includes:
-
-- optional sketchnote
-- optional supplemental video
-- pre-lesson warmup quiz
-- written lesson
-- for project-based lessons, step-by-step guides on how to build the project
-- knowledge checks
-- a challenge
-- supplemental reading
-- assignment
-- post-lesson quiz
-
-> **A note about quizzes**: All quizzes are contained [in this app](https://ashy-river-0debb7803.1.azurestaticapps.net/), for 48 total quizzes of three questions each. They are linked from within the lessons but the quiz app can be run locally; follow the instruction in the `quiz-app` folder. They are gradually being localized.
-
-## Lessons
-
-|     |                       Project Name                       |                            Concepts Taught                             | Learning Objectives                                                                                                                 |                                                         Linked Lesson                                                          |         Author          |
-| :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------: |
-| 01  |                     Getting Started                      |           Introduction to Programming and Tools of the Trade           | Learn the basic underpinnings behind most programming languages and about software that helps professional developers do their jobs | [Intro to Programming Languages and Tools of the Trade](/1-getting-started-lessons/1-intro-to-programming-languages/README.md) |         Jasmine         |
-| 02  |                     Getting Started                      |             Basics of GitHub, includes working with a team             | How to use GitHub in your project, how to collaborate with others on a code base                                                    |                            [Intro to GitHub](/1-getting-started-lessons/2-github-basics/README.md)                             |          Floor          |
-| 03  |                     Getting Started                      |                             Accessibility                              | Learn the basics of web accessibility                                                                                               |                       [Accessibility Fundamentals](/1-getting-started-lessons/3-accessibility/README.md)                       |       Christopher       |
-| 04  |                        JS Basics                         |                         JavaScript Data Types                          | The basics of JavaScript data types                                                                                                 |                                       [Data Types](/2-js-basics/1-data-types/README.md)                                        |         Jasmine         |
-| 05  |                        JS Basics                         |                         Functions and Methods                          | Learn about functions and methods to manage an application's logic flow                                                             |                              [Functions and Methods](/2-js-basics/2-functions-methods/README.md)                               | Jasmine and Christopher |
-| 06  |                        JS Basics                         |                        Making Decisions with JS                        | Learn how to create conditions in your code using decision-making methods                                                           |                                 [Making Decisions](/2-js-basics/3-making-decisions/README.md)                                  |         Jasmine         |
-| 07  |                        JS Basics                         |                            Arrays and Loops                            | Work with data using arrays and loops in JavaScript                                                                                 |                                   [Arrays and Loops](/2-js-basics/4-arrays-loops/README.md)                                    |         Jasmine         |
-| 08  |       [Terrarium](/3-terrarium/solution/README.md)       |                            HTML in Practice                            | Build the HTML to create an online terrarium, focusing on building a layout                                                         |                                 [Introduction to HTML](/3-terrarium/1-intro-to-html/README.md)                                 |           Jen           |
-| 09  |       [Terrarium](/3-terrarium/solution/README.md)       |                            CSS in Practice                             | Build the CSS to style the online terrarium, focusing on the basics of CSS including making the page responsive                     |                                  [Introduction to CSS](/3-terrarium/2-intro-to-css/README.md)                                  |           Jen           |
-| 10  |            [Terrarium](/3-terrarium/solution/README.md)            |                 JavaScript Closures, DOM manipulation                  | Build the JavaScript to make the terrarium function as a drag/drop interface, focusing on closures and DOM manipulation             |                  [JavaScript Closures, DOM manipulation](/3-terrarium/3-intro-to-DOM-and-closures/README.md)                   |           Jen           |
-| 11  |          [Typing Game](/4-typing-game/solution/README.md)          |                          Build a Typing Game                           | Learn how to use keyboard events to drive the logic of your JavaScript app                                                          |                                [Event-Driven Programming](/4-typing-game/typing-game/README.md)                                |       Christopher       |
-| 12  | [Green Browser Extension](/5-browser-extension/solution/README.md) |                         Working with Browsers                          | Learn how browsers work, their history, and how to scaffold the first elements of a browser extension                               |                               [About Browsers](/5-browser-extension/1-about-browsers/README.md)                                |           Jen           |
-| 13  | [Green Browser Extension](/5-browser-extension/solution/README.md) | Building a form, calling an API and storing variables in local storage | Build the JavaScript elements of your browser extension to call an API using variables stored in local storage                      |                [APIs, Forms, and Local Storage](/5-browser-extension/2-forms-browsers-local-storage/README.md)                 |           Jen           |
-| 14  | [Green Browser Extension](/5-browser-extension/solution/README.md) |          Background processes in the browser, web performance          | Use the browser's background processes to manage the extension's icon; learn about web performance and some optimizations to make   |             [Background Tasks and Performance](/5-browser-extension/3-background-tasks-and-performance/README.md)              |           Jen           |
-| 15  |           [Space Game](/6-space-game/solution/README.md)           |             More Advanced Game Development with JavaScript             | Learn about Inheritance using both Classes and Composition and the Pub/Sub pattern, in preparation for building a game              |                      [Introduction to Advanced Game Development](/6-space-game/1-introduction/README.md)                       |          Chris          |
-| 16  |           [Space Game](/6-space-game/solution/README.md)           |                           Drawing to canvas                            | Learn about the Canvas API, used to draw elements to a screen                                                                       |                                [Drawing to Canvas](/6-space-game/2-drawing-to-canvas/README.md)                                |          Chris          |
-| 17  |           [Space Game](/6-space-game/solution/README.md)           |                   Moving elements around the screen                    | Discover how elements can gain motion using the cartesian coordinates and the Canvas API                                            |                           [Moving Elements Around](/6-space-game/3-moving-elements-around/README.md)                           |          Chris          |
-| 18  |           [Space Game](/6-space-game/solution/README.md)           |                          Collision detection                           | Make elements collide and react to each other using keypresses and provide a cooldown function to ensure performance of the game    |                              [Collision Detection](/6-space-game/4-collision-detection/README.md)                              |          Chris          |
-| 19  |           [Space Game](/6-space-game/solution/README.md)           |                             Keeping score                              | Perform math calculations based on the game's status and performance                                                                |                                    [Keeping Score](/6-space-game/5-keeping-score/README.md)                                    |          Chris          |
-| 20  |           [Space Game](/6-space-game/solution/README.md)           |                     Ending and restarting the game                     | Learn about ending and restarting the game, including cleaning up assets and resetting variable values                              |                                [The Ending Condition](/6-space-game/6-end-condition/README.md)                                 |          Chris          |
-| 21  |         [Banking App](/7-bank-project/solution/README.md)          |                 HTML Templates and Routes in a Web App                 | Learn how to create the scaffold of a multipage website's architecture using routing and HTML templates                             |                            [HTML Templates and Routes](/7-bank-project/1-template-route/README.md)                             |          Yohan          |
-| 22  |         [Banking App](/7-bank-project/solution/README.md)          |                  Build a Login and Registration Form                   | Learn about building forms and handling validation routines                                                                          |                                           [Forms](/7-bank-project/2-forms/README.md)                                           |          Yohan          |
-| 23  |         [Banking App](/7-bank-project/solution/README.md)          |                   Methods of Fetching and Using Data                   | How data flows in and out of your app, how to fetch it, store it, and dispose of it                                                 |                                            [Data](/7-bank-project/3-data/README.md)                                            |          Yohan          |
-| 24  |         [Banking App](/7-bank-project/solution/README.md)          |                      Concepts of State Management                      | Learn how your app retains state and how to manage it programmatically                                                              |                                [State Management](/7-bank-project/4-state-management/README.md)                                |          Yohan          |
-
-## Offline access
-
-You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
+Vous pouvez exécuter cette documentation hors connexion à l’aide de [Docsify](https://docsify.js.org/#/). Effectuez un Fork de ce référentiel, [installez Docsify](https://docsify.js.org/#/quickstart) sur votre ordinateur local, puis dans le dossier racine de ce référentiel, tapez `docsify serve`. Le site Web va apparaître dans votre navigateur au port 3000 du localhost: `localhost:3000`.
 
 ## PDF
 
-A PDF of all of the lessons can be found [here](https://microsoft.github.io/Web-Dev-For-Beginners/pdf/readme.pdf).
+Un PDF de toutes les leçons peut être trouvé [ici](https://microsoft.github.io/Web-Dev-For-Beginners/pdf/readme.pdf)
 
-## Help Wanted!
+## Autres programmes d’études
 
-If you would like to translate all or part of the curriculum, please follow our [Translations](TRANSLATIONS.md) guide.
-
-## Other Curricula
-
-Our team produces other curricula! Check out:
+Notre équipe produit d’autres programmes! Jetez un oeil:
 
 - [Machine Learning for Beginners](https://aka.ms/ml-beginners)
 - [IoT for Beginners](https://aka.ms/iot-beginners)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners)
 - [AI for Beginners](https://aka.ms/ai-beginners)
-- [XR Development for Beginners](https://aka.ms/xr-dev-for-beginners)
-
-## License
-
-This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
